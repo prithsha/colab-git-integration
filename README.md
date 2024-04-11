@@ -1,5 +1,5 @@
 Repository proposes what can be possible source folder structure while using Jupyter notebooks with large source code.
-This proposal allow to run Jupyter notebook locally, on ggogle colab and also allow to run package independently. 
+This proposal allow to run Jupyter notebook locally, on google colab and also allow to run package independently. 
 
 # Runing Jupyter notebook in google colab and maintaining complex source code structure for Jupyter notebook in git
 Example repo to proposes git folder structure having one or multiple jupyter notebooks which are possible to run locally or on google colab
